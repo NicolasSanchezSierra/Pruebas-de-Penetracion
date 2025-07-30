@@ -1,0 +1,13 @@
+El propósito de esta serie de reportes es demostrar y mejorar mi capacidad para documentar de la forma más profesional posible, dentro de los límites de mi experiencia actual.
+Mi intención es aplicar metodologías tanto profesionales como académicas en la elaboración de estos documentos. 
+Para ello, me baso en recomendaciones de certificaciones como OSCP, CEH y otras plantillas de referencia.
+
+Aclaro que no busco acumular una gran cantidad de máquinas vulneradas en plataformas como Hack The Box, TryHackMe, VulnHub, entre otras. 
+En cambio, mi enfoque está en aprovechar estas plataformas para desarrollar una estructura documental sólida y profesional.
+Por eso, si exploras las carpetas, encontrarás documentos que simulan reportes de pruebas de penetración, enfocados en la calidad más que en la cantidad.
+
+PD: Para crear las plantillas utilicé como base las de noraj, las cuales modifiqué y adapté según mis necesidades.
+Estoy abierto a cualquier recomendación que puedas ofrecerme. ¡Toda sugerencia es bienvenida! 😊
+
+
+Repositorio de noraj: https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
